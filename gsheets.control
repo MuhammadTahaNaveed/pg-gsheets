@@ -1,0 +1,3 @@
+default_version='0.1.0'
+comment='Read and write google sheets'
+module_pathname='$libdir/gsheets'
