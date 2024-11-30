@@ -6,6 +6,8 @@
 </p>
 <br/>
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/MuhammadTahaNaveed/pg-gsheets/blob/master/LICENSE)
+
 [pg-gsheets](https://pg-gsheets.com) is a PostgreSQL extension that enables interaction with Google Sheets directly from your PostgreSQL database. You can use SQL commands to read and write Google Sheets data.
 
 ## Installation
